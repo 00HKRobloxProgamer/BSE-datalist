@@ -1,13 +1,21 @@
---Short
+--long
 local display = {}
+display["HD"] = {"HANOVER",{71728325400503}}
+display["ADL"] = {"ADL",{106766936047293}} 
+display["COLLAR"] = {"COLLAR",{131200141481911}}
 display["BL"] = {"Blank",{117829901489168}}
-display["DATA"] = {"DATA",{74862056178404}}
-display["BSE"] = {"BSE",{108523568131221}} 
-display["P"] = {"BSE",{134074903610219}} 
-display["T"] = {"Training",{18922560781}}
-display["T1"] = {"Trial Run",{103052724415922}} 
-display["RT"] = {"Road Test",{125535738144533}} 
-display["C"] = {"Crew Bus",{18919377634}} 
+display["BSE"] = {"BSE",{84308481300808}} 
+display["P"] = {"NIS",{70952737627789}} 
+display["M"] = {"DATA",{113478347748664}}
+display["M1"] = {"Training",{80520623768682}}
+display["M2"] = {"Trial Run",{75719515624512}} 
+display["M3"] = {"Road Test",{89148206142074}} 
+display["CB"] = {"CREW BUS",{107962986797122}} 
+display["FSB"] = {"FSB",{94026481770015}}
+display["PLG"] = {"PLG",{91644687234263}}
+display["MC"] = {"MERRY CHRISTMAS",{88658789628745}} 
+display["NY"] = {"HAPPY NEW YEAR",{104906443029165}} 
+display["EV"] = {"EV",{89116001160251}}
 display["80Y"] = {"80",{126294232468232,91235599792183}} 
 display["80Z"] = {"80",{87651436559470,91235599792183}} 
 display["80RY"] = {"80R",{18922557488}}
